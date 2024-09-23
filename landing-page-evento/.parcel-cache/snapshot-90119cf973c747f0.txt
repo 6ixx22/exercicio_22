@@ -1,4 +1,4 @@
-5905
+5907
 87C:\modulo_22\landing-page-evento\node_modules\@parcel\transformer-posthtml\package.json133715941046092554 0
 80C:\modulo_22\landing-page-evento\node_modules\source-map-js\lib\binary-search.js133715941011038790 0
 71C:\modulo_22\landing-page-evento\node_modules\@swc\helpers\package.json133715941305697574 0
@@ -14,7 +14,7 @@
 109C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js133715941168272624 0
 63C:\modulo_22\landing-page-evento\node_modules\@msgpackr-extract133715941567520238 1
 72C:\modulo_22\landing-page-evento\node_modules\svgo\plugins\reusePaths.js133715941196228035 0
-37C:\modulo_22\landing-page-evento\dist133715955117577774 1
+37C:\modulo_22\landing-page-evento\dist133715964550217172 1
 103C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\style.js133715941177365372 0
 109C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergeStyles.js133715941122581407 0
 77C:\modulo_22\landing-page-evento\node_modules\source-map\lib\binary-search.js133715941061796908 0
@@ -38,7 +38,7 @@
 73C:\modulo_22\landing-page-evento\node_modules\utility-types\dist\index.js133715940960146563 0
 99C:\modulo_22\landing-page-evento\node_modules\lmdb\node_modules\node-addon-api\package-support.json133715941098729507 0
 95C:\modulo_22\landing-page-evento\node_modules\@swc\helpers\cjs\_is_native_reflect_construct.cjs133715941273363454 0
-48C:\modulo_22\landing-page-evento\dist\index.html133715955108736665 0
+48C:\modulo_22\landing-page-evento\dist\index.html133715964546758717 0
 82C:\modulo_22\landing-page-evento\node_modules\@swc\helpers\_\_extends\package.json133715941181613260 0
 85C:\modulo_22\landing-page-evento\node_modules\css-tree\lib\syntax\node\Parentheses.js133715941281293401 0
 64C:\modulo_22\landing-page-evento\node_modules\lmdb\src\windows.c133715941188112449 0
@@ -68,14 +68,14 @@
 129C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\specificity.js133715941153970798 0
 101C:\modulo_22\landing-page-evento\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133715941263162563 0
 100C:\modulo_22\landing-page-evento\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133715941073477102 0
-59C:\modulo_22\landing-page-evento\dist\index.44983732.js.map133715955117287948 0
+59C:\modulo_22\landing-page-evento\dist\index.44983732.js.map133715964550107219 0
 77C:\modulo_22\landing-page-evento\node_modules\caniuse-lite\data\regions\DJ.js133715941300811660 0
 66C:\modulo_22\landing-page-evento\node_modules\escape-string-regexp133715940954055545 1
 74C:\modulo_22\landing-page-evento\node_modules\svgo\plugins\inlineStyles.js133715941167040198 0
 72C:\modulo_22\landing-page-evento\node_modules\tslib\modules\package.json133715941048335527 0
 76C:\modulo_22\landing-page-evento\node_modules\@parcel\core\lib\Validation.js133715941267366850 0
 78C:\modulo_22\landing-page-evento\node_modules\react-error-overlay\lib\index.js133715941056024433 0
-69C:\modulo_22\landing-page-evento\dist\landing-page-evento.59712999.js133715955108080365 0
+69C:\modulo_22\landing-page-evento\dist\landing-page-evento.59712999.js133715964547088277 0
 91C:\modulo_22\landing-page-evento\node_modules\caniuse-lite\data\features\payment-request.js133715941437874256 0
 68C:\modulo_22\landing-page-evento\node_modules\lmdb\dependencies\lmdb133715940961228802 1
 63C:\modulo_22\landing-page-evento\node_modules\timsort\README.md133715940947089640 0
@@ -84,12 +84,12 @@
 64C:\modulo_22\landing-page-evento\node_modules\chrome-trace-event133715941034401302 1
 95C:\modulo_22\landing-page-evento\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133715941184130373 0
 67C:\modulo_22\landing-page-evento\node_modules\boolbase\package.json133715940903608389 0
-73C:\modulo_22\landing-page-evento\dist\landing-page-evento.59712999.js.map133715955117128038 0
+73C:\modulo_22\landing-page-evento\dist\landing-page-evento.59712999.js.map133715964549765004 0
 90C:\modulo_22\landing-page-evento\node_modules\caniuse-lite\data\features\scrollintoview.js133715941446240674 0
 77C:\modulo_22\landing-page-evento\node_modules\semver\ranges\min-satisfying.js133715941113360847 0
 69C:\modulo_22\landing-page-evento\node_modules\micromatch\package.json133715940951979533 0
 77C:\modulo_22\landing-page-evento\node_modules\caniuse-lite\data\regions\QA.js133715941444120486 0
-55C:\modulo_22\landing-page-evento\dist\index.44983732.js133715955108080365 0
+55C:\modulo_22\landing-page-evento\dist\index.44983732.js133715964547078277 0
 71C:\modulo_22\landing-page-evento\node_modules\@parcel\core\lib\utils.js133715941266714209 0
 76C:\modulo_22\landing-page-evento\node_modules\type-fest\ts41\camel-case.d.ts133715941062929768 0
 58C:\modulo_22\landing-page-evento\node_modules\js-yaml\dist133715941126681982 1
@@ -1116,6 +1116,7 @@
 92C:\modulo_22\landing-page-evento\node_modules\@swc\helpers\src\_class_private_field_init.mjs133715941308206309 0
 76C:\modulo_22\landing-page-evento\node_modules\svgo\plugins\removeMetadata.js133715941184060418 0
 98C:\modulo_22\landing-page-evento\node_modules\css-select\lib\esm\pseudo-selectors\filters.d.ts.map133715941131771326 0
+37C:\modulo_22\landing-page-evento\.env133715961519164244 0
 80C:\modulo_22\landing-page-evento\node_modules\svgo\plugins\removeRasterImages.js133715941187982534 0
 98C:\modulo_22\landing-page-evento\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133715941300262004 0
 73C:\modulo_22\landing-page-evento\node_modules\regenerator-runtime\path.js133715940918562589 0
@@ -3590,6 +3591,7 @@
 62C:\modulo_22\landing-page-evento\node_modules\@babel\highlight133715940974465885 1
 79C:\modulo_22\landing-page-evento\node_modules\css-select\lib\esm\compile.js.map133715941130704078 0
 77C:\modulo_22\landing-page-evento\node_modules\css-select\lib\esm\general.d.ts133715941184230326 0
+44C:\modulo_22\landing-page-evento\vercel.json133715962062183179 0
 75C:\modulo_22\landing-page-evento\node_modules\css-select\lib\esm\general.js133715941078584824 0
 75C:\modulo_22\landing-page-evento\node_modules\css-select\lib\esm\index.d.ts133715941187642735 0
 73C:\modulo_22\landing-page-evento\node_modules\css-select\lib\esm\index.js133715941090552699 0
@@ -5391,7 +5393,7 @@
 124C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\aliases.js133715940935516274 0
 124C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.d.ts133715941123490853 0
 122C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.js133715941065755370 0
-55C:\modulo_22\landing-page-evento\dist\bolo.edf425f3.jpg133715955109206386 0
+55C:\modulo_22\landing-page-evento\dist\bolo.edf425f3.jpg133715964549344114 0
 126C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133715941125272854 0
 61C:\modulo_22\landing-page-evento\node_modules\.bin\parcel.cmd133715941464857851 0
 127C:\modulo_22\landing-page-evento\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.js133715941079738554 0
@@ -5900,7 +5902,7 @@
 73C:\modulo_22\landing-page-evento\node_modules\.bin\update-browserslist-db133715941464947781 0
 77C:\modulo_22\landing-page-evento\node_modules\.bin\update-browserslist-db.cmd133715941464947781 0
 43C:\modulo_22\landing-page-evento\src\imagem133715954982734314 1
-58C:\modulo_22\landing-page-evento\dist\images.4a24cfa3.jfif133715955108702450 0
-56C:\modulo_22\landing-page-evento\dist\index.2cdaf7bc.css133715955108736665 0
-65C:\modulo_22\landing-page-evento\dist\salãodefestas.9c7b1d04.jpg133715955109036489 0
-60C:\modulo_22\landing-page-evento\dist\index.2cdaf7bc.css.map133715955117527809 0
+56C:\modulo_22\landing-page-evento\dist\index.2cdaf7bc.css133715964546748697 0
+58C:\modulo_22\landing-page-evento\dist\images.4a24cfa3.jfif133715964547088277 0
+65C:\modulo_22\landing-page-evento\dist\salãodefestas.9c7b1d04.jpg133715964547098271 0
+60C:\modulo_22\landing-page-evento\dist\index.2cdaf7bc.css.map133715964549723984 0
