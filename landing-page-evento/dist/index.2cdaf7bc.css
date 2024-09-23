@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  color: #fff;
+  background-color: #4caf50;
+  padding: 2rem;
+}
+
+#countdown {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+
+main, section {
+  margin: 2rem 0;
+}
+
+#gallery img {
+  width: 150px;
+  height: 150px;
+  margin: .5rem;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
