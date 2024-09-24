@@ -102,7 +102,7 @@
 74C:\modulo_22\node_modules\@parcel\optimizer-svgo\node_modules\csso\LICENSE133715940912795045 0
 68C:\modulo_22\node_modules\entities\lib\generated\decode-data-html.js133715940971176735 0
 44C:\modulo_22\node_modules\timsort\.npmignore133715940917803108 0
-24C:\modulo_22\vercel.json133716836087808436 0
+24C:\modulo_22\vercel.json133716841095650810 0
 47C:\modulo_22\node_modules\ansi-styles\readme.md133715940957033541 0
 76C:\modulo_22\node_modules\csso\node_modules\css-tree\lib\generator\create.js133715941259233304 0
 70C:\modulo_22\node_modules\node-gyp-build-optional-packages\optional.js133715940971196720 0
@@ -116,7 +116,7 @@
 69C:\modulo_22\node_modules\@swc\helpers\_\_is_native_reflect_construct133715941196407920 1
 55C:\modulo_22\node_modules\react-refresh\build-info.json133715941063149637 0
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\SH.js133715941447600623 0
-27C:\modulo_22\src\index.html133716664607540435 0
+27C:\modulo_22\src\index.html133716838058364356 0
 64C:\modulo_22\node_modules\caniuse-lite\data\features\fontface.js133715941317340722 0
 56C:\modulo_22\node_modules\mdn-data\css\types.schema.json133715941114583346 0
 80C:\modulo_22\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js.map133715941123470870 0
