@@ -31,7 +31,7 @@
 81C:\modulo_22\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts.map133715941115352862 0
 89C:\modulo_22\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js133715941168272624 0
 37C:\modulo_22\node_modules\detect-libc133715941031757620 1
-25C:\modulo_22\package.json133716667364232345 0
+25C:\modulo_22\package.json133716674709457684 0
 32C:\modulo_22\node_modules\semver133715941157525959 1
 64C:\modulo_22\node_modules\css-tree\cjs\syntax\scope\selector.cjs133715941218298144 0
 52C:\modulo_22\node_modules\@parcel\optimizer-svgo\src133715940950720298 1
