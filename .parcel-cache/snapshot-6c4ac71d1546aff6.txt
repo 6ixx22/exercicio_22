@@ -1,5 +1,4 @@
 5920
-17C:\modulo_22\.env133715961519164244 0
 56C:\modulo_22\node_modules\node-addon-api\tools\README.md133715941110023774 0
 55C:\modulo_22\node_modules\lightningcss\node\ast.js.flow133715941005825183 0
 76C:\modulo_22\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133715941252887758 0
@@ -56,7 +55,7 @@
 26C:\modulo_22\src\style.css133715945137516681 0
 48C:\modulo_22\node_modules\term-size\package.json133715941061603788 0
 75C:\modulo_22\node_modules\dom-serializer\node_modules\entities\lib\index.js133715941016963169 0
-16C:\modulo_22\src133716843335993978 1
+16C:\modulo_22\src133716843930923101 1
 34C:\modulo_22\node_modules\escalade133715941067751006 1
 72C:\modulo_22\node_modules\caniuse-lite\data\features\css-supports-api.js133715941280514558 0
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\VU.js133715941456756318 0
@@ -71,7 +70,10 @@
 34C:\modulo_22\node_modules\mdn-data133715941121600543 1
 60C:\modulo_22\node_modules\caniuse-lite\data\features\opus.js133715941436599213 0
 57C:\modulo_22\node_modules\@parcel\profiler\lib\index.d.ts133715941091532090 0
-17C:\modulo_22\dist133716843867698387 1
+17C:\modulo_22\dist133716846011353717 1
+60C:\modulo_22\node_modules\@parcel\node-resolver-core\LICENSE133715940904217141 0
+21C:\modulo_22\src\.env133716844029251974 0
+57C:\modulo_22\node_modules\caniuse-lite\data\regions\SY.js133715941450790814 0
 42C:\modulo_22\node_modules\srcset\readme.md133715940956773738 0
 71C:\modulo_22\node_modules\caniuse-lite\data\features\text-decoration.js133715941451311532 0
 61C:\modulo_22\node_modules\@swc\helpers\_\_update\package.json133715941256959491 0
@@ -106,7 +108,7 @@
 69C:\modulo_22\node_modules\@swc\helpers\_\_is_native_reflect_construct133715941196407920 1
 55C:\modulo_22\node_modules\react-refresh\build-info.json133715941063149637 0
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\SH.js133715941447600623 0
-27C:\modulo_22\src\index.html133716843571218892 0
+27C:\modulo_22\src\index.html133716845761585429 0
 64C:\modulo_22\node_modules\caniuse-lite\data\features\fontface.js133715941317340722 0
 56C:\modulo_22\node_modules\mdn-data\css\types.schema.json133715941114583346 0
 80C:\modulo_22\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js.map133715941123470870 0
@@ -1485,7 +1487,7 @@
 47C:\modulo_22\node_modules\domutils\lib\index.js133715940968903766 0
 80C:\modulo_22\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133715941033431897 0
 69C:\modulo_22\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133715941068590490 0
-28C:\modulo_22\dist\index.html133716843867182321 0
+28C:\modulo_22\dist\index.html133716846010427116 0
 62C:\modulo_22\node_modules\@parcel\core\src\summarizeRequest.js133715941260356462 0
 83C:\modulo_22\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133715941054701388 0
 62C:\modulo_22\node_modules\caniuse-lite\data\features\jpegxr.js133715941423893272 0
@@ -1594,7 +1596,7 @@
 52C:\modulo_22\node_modules\@parcel\graph\package.json133715941110525025 0
 49C:\modulo_22\node_modules\lines-and-columns\build133715940971316648 1
 40C:\modulo_22\node_modules\@swc\helpers\_133715941259976698 1
-40C:\modulo_22\dist\index.729be0c2.css.map133716667639828809 0
+40C:\modulo_22\dist\index.729be0c2.css.map133716846010953959 0
 50C:\modulo_22\node_modules\picocolors\picocolors.js133715940949120808 0
 46C:\modulo_22\node_modules\picocolors\README.md133715940972915201 0
 64C:\modulo_22\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133715941112241532 0
@@ -3963,8 +3965,6 @@
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\SO.js133715941448696738 0
 65C:\modulo_22\node_modules\@swc\helpers\_\_class_private_field_set133715941156422644 1
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\SR.js133715941449064376 0
-60C:\modulo_22\node_modules\@parcel\node-resolver-core\LICENSE133715940904217141 0
-57C:\modulo_22\node_modules\caniuse-lite\data\regions\SY.js133715941450790814 0
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\SZ.js133715941450860772 0
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\TC.js133715941450970693 0
 57C:\modulo_22\node_modules\caniuse-lite\data\regions\TD.js133715941451040653 0
@@ -4778,7 +4778,7 @@
 45C:\modulo_22\node_modules\@parcel\workers\src133715941158423254 1
 60C:\modulo_22\node_modules\@parcel\workers\test\workerfarm.js133715941160116724 0
 69C:\modulo_22\node_modules\@parcel\workers\test\integration\workerfarm133715941124592525 1
-35C:\modulo_22\dist\index.6c9ef640.js133716667639698881 0
+35C:\modulo_22\dist\index.6c9ef640.js133716846010427116 0
 80C:\modulo_22\node_modules\@parcel\workers\test\integration\workerfarm\console.js133715941073135411 0
 77C:\modulo_22\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133715941099748870 0
 76C:\modulo_22\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133715941111006347 0
@@ -5915,7 +5915,7 @@
 39C:\modulo_22\node_modules\.bin\svgo.ps1133715941464927794 0
 53C:\modulo_22\node_modules\.bin\update-browserslist-db133715941464947781 0
 35C:\modulo_22\dist\bolo.9f7fe8cf.jpg133716667579054077 0
-39C:\modulo_22\dist\index.6c9ef640.js.map133716667639828809 0
-36C:\modulo_22\dist\index.729be0c2.css133716667639698881 0
+39C:\modulo_22\dist\index.6c9ef640.js.map133716846010953959 0
+36C:\modulo_22\dist\index.729be0c2.css133716846010427116 0
 44C:\modulo_22\dist\salãodefestas.9c7b1d04.jpg133715967733486762 0
 44C:\modulo_22\dist\salãodefestas.eb207e22.jpg133716667577311164 0
