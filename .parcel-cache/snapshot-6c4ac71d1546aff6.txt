@@ -102,7 +102,7 @@
 74C:\modulo_22\node_modules\@parcel\optimizer-svgo\node_modules\csso\LICENSE133715940912795045 0
 68C:\modulo_22\node_modules\entities\lib\generated\decode-data-html.js133715940971176735 0
 44C:\modulo_22\node_modules\timsort\.npmignore133715940917803108 0
-24C:\modulo_22\vercel.json133716692960645448 0
+24C:\modulo_22\vercel.json133716836087808436 0
 47C:\modulo_22\node_modules\ansi-styles\readme.md133715940957033541 0
 76C:\modulo_22\node_modules\csso\node_modules\css-tree\lib\generator\create.js133715941259233304 0
 70C:\modulo_22\node_modules\node-gyp-build-optional-packages\optional.js133715940971196720 0
